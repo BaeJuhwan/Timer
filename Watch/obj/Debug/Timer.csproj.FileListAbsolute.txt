@@ -1,0 +1,11 @@
+C:\Users\a\OneDrive\csstudy\Watch\Watch\bin\Debug\Watch.exe.config
+C:\Users\a\OneDrive\csstudy\Watch\Watch\bin\Debug\Watch.exe
+C:\Users\a\OneDrive\csstudy\Watch\Watch\bin\Debug\Watch.pdb
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Timer.Form1.resources
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Watch.Properties.Resources.resources
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Watch.exe
+C:\Users\a\OneDrive\csstudy\Watch\Watch\obj\Debug\Watch.pdb

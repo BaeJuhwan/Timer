@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50c9ad39-ffe4-4b01-b834-99b463a09507": {
+      "ProjectGuid": "50c9ad39-ffe4-4b01-b834-99b463a09507",
+      "DisplayName": "Timer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
